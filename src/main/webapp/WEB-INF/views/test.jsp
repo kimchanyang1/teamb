@@ -7,11 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-성공
-<<<<<<< HEAD
-<!-- 김찬양 수정했음 -->
-=======
-3시 57분 수정
->>>>>>> ca2eaa6ffc7d5714963cac5ce5a97304eb0befa5
+올라가는지 확인용
+4시 42분
 </body>
 </html>
